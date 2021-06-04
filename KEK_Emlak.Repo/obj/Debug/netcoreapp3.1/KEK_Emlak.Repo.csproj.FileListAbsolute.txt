@@ -1,0 +1,75 @@
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.csprojAssemblyReference.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.AssemblyInfoInputs.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.AssemblyInfo.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.deps.json
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.runtimeconfig.json
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.runtimeconfig.dev.json
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.csproj.CopyComplete
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.genruntimeconfig.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.deps.json
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.runtimeconfig.json
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.runtimeconfig.dev.json
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.csprojAssemblyReference.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.AssemblyInfoInputs.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.AssemblyInfo.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.csproj.CopyComplete
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.genruntimeconfig.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.deps.json
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.runtimeconfig.json
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.runtimeconfig.dev.json
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.csprojAssemblyReference.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.AssemblyInfoInputs.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.AssemblyInfo.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.csproj.CopyComplete
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.genruntimeconfig.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.deps.json
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.runtimeconfig.json
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.runtimeconfig.dev.json
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.csprojAssemblyReference.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.AssemblyInfoInputs.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.AssemblyInfo.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.csproj.CopyComplete
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.genruntimeconfig.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.deps.json
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.runtimeconfig.json
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.runtimeconfig.dev.json
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.csprojAssemblyReference.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.AssemblyInfoInputs.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.AssemblyInfo.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.csproj.CopyComplete
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Repo\obj\Debug\netcoreapp3.1\KEK_Emlak.Repo.genruntimeconfig.cache

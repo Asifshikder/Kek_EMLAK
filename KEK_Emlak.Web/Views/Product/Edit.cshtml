@@ -1,0 +1,178 @@
+﻿@model KEK_Emlak.Web.Models.ProductVM
+
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<section class="wrapper">
+    <h3><i class="fa fa-angle-right"></i>Emlak</h3>
+
+    <div class="form-panel">
+        <h4 class="mb"><i class="fa fa-angle-right"></i>Emlak Güncelle</h4>
+        <form class="form-horizontal style-form" method="post" asp-action="Update" asp-controller="Product" enctype="multipart/form-data">
+            <div class="row">
+                @Html.HiddenFor(m => m.Id)
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">İsim</label>
+                        <div class="col-sm-10">
+                            <input type="text" asp-for="Name" required class="form-control round-form" placeholder="Başlık yazınız">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Kategori</label>
+                        <div class="col-sm-10">
+                            @Html.DropDownList("CategoryId", (SelectList)ViewBag.Cagetories, "Select Category", new { @class = "form-control round-form", @required = "Select City" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Detaylar</label>
+                        <div class="col-sm-10">
+                            <textarea required type="text" asp-for="Details" class="form-control round-form" placeholder="Ürünü Açıklayınız"></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Fiyat</label>
+                        <div class="col-sm-10">
+                            <input required type="number" asp-for="Price" class="form-control round-form" placeholder="Bir fiyat belirleyiniz">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Alan</label>
+                        <div class="col-sm-10">
+                            <input required type="number" asp-for="Area" class="form-control round-form" placeholder="Metrekare Cinsi">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Adres</label>
+                        <div class="col-sm-10">
+                            <input type="text" asp-for="Location" class="form-control round-form" placeholder="Açık Adres Giriniz">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Kapak Fotoğrafı</label>
+                        <div class="col-sm-10">
+                            <input type="file" asp-for="DisplayImageFile" class="fileinput-button">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Emlak fotoğraf</label>
+                        <div class="col-sm-10">
+                            <input type="file" asp-for="Image2File" class="fileinput-button">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Emlak fotoğraf</label>
+                        <div class="col-sm-10">
+                            <input type="file" asp-for="Image3File" class="fileinput-button">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Emlak fotoğraf</label>
+                        <div class="col-sm-10">
+                            <input type="file" asp-for="Image4File" class="fileinput-button">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 col-sm-2 control-label">Emlak fotoğraf</label>
+                        <div class="col-sm-8">
+                            <input type="file" asp-for="Image5File" class="fileinput-button">
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-md-6">
+                    <div class="row" id="preview1" style="padding:4px">Display Image:<img src="@Url.Content(Model.DisplayImage)" height="100"/> </div>
+                    <div class="row" id="preview2" style="padding:4px">Image 2:<img src="@Url.Content(Model.Image2)" height="100" /></div>
+                    <div class="row" id="preview3" style="padding:4px">Image 3:<img src="@Url.Content(Model.Image3)" height="100" /> </div>
+                    <div class="row" id="preview4" style="padding:4px">Image 4:<img src="@Url.Content(Model.Image4)" height="100" /> </div>
+                    <div class="row" id="preview5" style="padding:4px">Image 5:<img src="@Url.Content(Model.Image5)" height="100" /></div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-12">
+                    <div class="text-right">
+                        <a class="btn btn-warning btn-sm" href="/Product/Useproduct">İptal</a>
+                        <button type="submit" class="btn btn-primary btn-sm">Güncelle</button>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</section>
+
+<script>
+    $(document).ready(function () {
+        $("#DisplayImageFile").change(function (e) {
+            var files = e.target.files;
+            $.each(files, function (i, file) {
+                var reader = new FileReader();
+                reader.readAsDataURL(file);
+                reader.onload = function (e) {
+                    $("#preview1").empty();
+                    var template = '<div class="col-md-6">Display Image:<div style="padding:5px"><img  height="100" width="130" src="' + e.target.result + '"/></div></div><div class="col-md-6"><div style="padding:5px"><button onclick=clearF("DisplayImageFile","preview1") class="btn btn-danger btn-xs">Remove</button></div></div>';
+                    $("#preview1").append(template);
+                };
+            });
+        });
+        $("#Image2File").change(function (e) {
+            var files = e.target.files;
+            $.each(files, function (i, file) {
+                var reader = new FileReader();
+                reader.readAsDataURL(file);
+                reader.onload = function (e) {
+                    $("#preview2").empty();
+                    var template = '<div class="col-md-6">Product Image1:<div style="padding:5px"><img  height="100" width="130" src="' + e.target.result + '"/></div></div><div class="col-md-6"><div style="padding:5px"><button onclick=clearF("Image2File","preview2") class="btn btn-danger btn-xs">Remove</button></div></div>';
+                    $("#preview2").append(template);
+                };
+            });
+        });
+        $("#Image3File").change(function (e) {
+            var files = e.target.files;
+            $.each(files, function (i, file) {
+                var reader = new FileReader();
+                reader.readAsDataURL(file);
+                reader.onload = function (e) {
+                    $("#preview3").empty();
+                    var template = '<div class="col-md-6">Product Image2:<div style="padding:5px"><img  height="100" width="130" src="' + e.target.result + '"/></div></div><div class="col-md-6"><div style="padding:5px"><button onclick=clearF("Image3File","preview3") class="btn btn-danger btn-xs">Remove</button></div></div>';
+                    $("#preview3").append(template);
+                };
+            });
+        });
+        $("#Image4File").change(function (e) {
+            var files = e.target.files;
+            $.each(files, function (i, file) {
+                var reader = new FileReader();
+                reader.readAsDataURL(file);
+                reader.onload = function (e) {
+                    $("#preview4").empty();
+                    var template = '<div class="col-md-6">Product Image3:<div style="padding:5px"><img  height="100" width="130" src="' + e.target.result + '"/></div></div><div class="col-md-6"><div style="padding:5px"><button onclick=clearF("Image4File","preview4") class="btn btn-danger btn-xs">Remove</button></div></div>';
+                    $("#preview4").append(template);
+                };
+            });
+        });
+        $("#Image5File").change(function (e) {
+            var files = e.target.files;
+            $.each(files, function (i, file) {
+                var reader = new FileReader();
+                reader.readAsDataURL(file);
+                reader.onload = function (e) {
+                    $("#preview5").empty();
+                    var template = '<div class="col-md-6">Product Image4:<div style="padding:5px"><img  height="100" width="130" src="' + e.target.result + '"/></div></div><div class="col-md-6"><div style="padding:5px"><button onclick=clearF("Image5File","preview5") class="btn btn-danger btn-xs">Remove</button></div></div>';
+                    $("#preview5").append(template);
+                };
+            });
+        });
+    });
+    function clearF(fieldanme, divname) {
+        document.getElementById('' + fieldanme + '').value = null;
+        $("#" + divname + "").empty();
+    }
+</script>
+

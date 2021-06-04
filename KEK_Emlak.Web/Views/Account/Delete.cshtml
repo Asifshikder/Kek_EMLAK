@@ -1,0 +1,39 @@
+﻿@model KEK_Emlak.Data.Entities.ApplicationUser
+
+@{
+    ViewData["Title"] = "Sil";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<section class="wrapper">
+    <h3><i class="fa fa-angle-right"></i>Kullanıcıyı Sil</h3>
+
+    <div class="row mt">
+        <div class="col-md-12">
+            <div class="content-panel">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="pull-left"> <h4><i class="fa fa-angle-right"></i>Sil</h4></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div style="padding:30px">
+                            <h3> @Model.FullName silmek istediğinizden emin misiniz?</h3>
+                            <div class="text-right">
+                                <form asp-action="DeleteConfirm" asp-controller="Account" method="post">
+                                    <input hidden asp-for="Id" />
+                                    <button class="btn btn-danger" type="submit">Sil</button>
+                                </form>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+            <!-- /content-panel -->
+        </div>
+        <!-- /col-md-12 -->
+    </div>
+</section>

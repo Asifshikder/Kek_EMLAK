@@ -1,0 +1,40 @@
+﻿@model KEK_Emlak.Data.Entities.Product
+
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<section class="wrapper">
+    <h3><i class="fa fa-angle-right"></i>Emlaklarım</h3>
+
+    <div class="form-panel">
+        <h4 class="mb"><i class="fa fa-angle-right"></i>Emlak Sil</h4>
+        <form class="form-horizontal style-form" method="post" asp-action="DeleteConfirm" asp-controller="Product">
+            @Html.HiddenFor(m => m.Id)
+            <div class="col-md-12">
+                <div class="form-group">
+                     @Model.Name silmek istediğinizden emin misiniz?
+                </div>
+                @Html.HiddenFor(s => s.AddedBy)
+                @Html.HiddenFor(s => s.AddedBy)
+                @Html.HiddenFor(s => s.AddedBy)
+                @Html.HiddenFor(s => s.AddedBy)
+                @Html.HiddenFor(s => s.AddedBy)
+                @Html.HiddenFor(s => s.AddedBy)
+                @Html.HiddenFor(s => s.AddedBy)
+            </div>
+            <div class="form-group">
+                <div class="col-sm-12">
+                    <div class="text-right">
+                        <a class="btn btn-warning btn-sm" href="/Product/UserProduct">İptal</a>
+                        <button type="submit" class="btn btn-danger btn-sm">Onayla</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
+
+

@@ -1,0 +1,31 @@
+﻿@model KEK_Emlak.Data.Entities.Category
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<section class="wrapper">
+    <h3><i class="fa fa-angle-right"></i> Kategori Düzenle</h3>
+
+    <div class="form-panel">
+        <h4 class="mb"><i class="fa fa-angle-right"></i>Kategori</h4>
+        <form class="form-horizontal style-form" method="post" asp-action="Update" asp-controller="Category">
+            @Html.HiddenFor(m=>m.Id)
+            <div class="form-group">
+                <label class="col-sm-2 col-sm-2 control-label">İsim</label>
+                <div class="col-sm-10">
+                    <input type="text" asp-for="Name" class="form-control round-form">
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-12">
+                    <div class="text-right">
+                        <a class="btn btn-warning btn-sm" href="/category/index">İptal</a>
+                        <button type="submit" class="btn btn-primary btn-sm">Güncelle</button>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</section>

@@ -1,0 +1,90 @@
+﻿@model KEK_Emlak.Web.Models.UserModel
+@{
+    ViewData["Title"] = "UserProfile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <div style="padding:10px">
+            <div style="background-color:#f1f1f1;border-radius:15px">
+                <div style="padding:20px">
+                    <div class="text-left">
+                        <h4>@Model.FullName</h4>
+                    </div>
+                    <div style="background-color:#ffdae7;border-radius:15px">
+                        <div style="padding:10px">
+                            <div class="row">
+
+                                <div class="col-md-6">
+                                    @if (Model.UserImage == null)
+                                    {
+                                        <img src="~/Human.png" height="340" width="400" style="border-radius:19px" />
+
+                                    }
+                                    else
+                                    {
+                                        <img src="@Url.Content(Model.UserImage)" height="340" />
+                                    }
+
+                                </div>
+                                <div class="col-md-6">
+                                    <div>
+                                        <p>İsim Soyisim   : @Model.FullName</p>
+                                        <p>Email        : @Model.Email</p>
+                                        <p>Telefon Numarası : @Model.PhoneNumber</p>
+                                        <p>Adres      : @Model.Address</p>
+                                        <p>Kullanıcı Detay      : @Model.UserTypeName</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    @if (Model.UserTypeId == 2)
+    {
+        <div class="col-md-12" style="background-color:#d4d4d4;border-radius:10px">
+            <div style="padding:10px">
+                <div class="card-title" style="margin-top:10px">
+                    <h5>Emlaklar</h5>
+                    <hr />
+                </div>
+                <div style="background-color:#dafbeb;border-radius:10px; padding:15px">
+                    <div style="margin:10px">
+                        <div class="row">
+                            @foreach (var item in Model.Product)
+                            {
+                                <div class="col-md-3">
+                                    <div style="background-color:#e9d4d4;border-color:#000000;border-radius:10px;margin:10px">
+                                        <div style="padding:10px">
+                                            <a href="/Product/Details?id=@item.ProductId">
+                                                <div>
+                                                    <img src="@Url.Content(item.DisplayImage)" height="150" width="200" style="border-radius:19px" />
+                                                </div>
+                                                <div><h6 class="text-dark">@item.ProductName</h6></div>
+                                                <div><p class="text-danger">₺@item.Price</p></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                            @if (Model.Product.Count == 0)
+                            {
+                                <div class="col-md-12">
+                                    <div class="text-center" style="padding:10px">
+                                        <p class="text-danger">Ürün Bulunamadı</p>
+                                    </div>
+                                </div>
+                            }
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    }
+</div>

@@ -1,0 +1,70 @@
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.deps.json
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.csprojAssemblyReference.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.AssemblyInfoInputs.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.AssemblyInfo.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.csproj.CoreCompileInputs.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.csproj.CopyComplete
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.deps.json
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.csprojAssemblyReference.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.AssemblyInfoInputs.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.AssemblyInfo.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.csproj.CoreCompileInputs.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.csproj.CopyComplete
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.deps.json
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.csprojAssemblyReference.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.AssemblyInfoInputs.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.AssemblyInfo.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.csproj.CoreCompileInputs.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.csproj.CopyComplete
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.deps.json
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.csprojAssemblyReference.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.AssemblyInfoInputs.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.AssemblyInfo.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.csproj.CoreCompileInputs.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.csproj.CopyComplete
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.deps.json
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.csprojAssemblyReference.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.AssemblyInfoInputs.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.AssemblyInfo.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.csproj.CoreCompileInputs.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.csproj.CopyComplete
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Service\obj\Debug\netcoreapp3.1\KEK_Emlak.Service.pdb

@@ -1,0 +1,110 @@
+﻿@model KEK_Emlak.Web.Models.IndexModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h4>KEK ÇEVRİMİÇİ EMLAK</h4>
+</div>
+<div class="card">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-6" style="background-color:#d4d4d4;border-radius:10px">
+                <div class="card-title" style="margin-top:10px">
+                    <h5>Emlaklar</h5>
+                    <hr />
+                </div>
+                <div style="background-color:#dafbeb;border-radius:10px; padding:15px">
+                    <div class="row" style="margin-left:22px">
+                        @foreach (var item in Model.Products)
+                        {
+                            <div class="col-md-5" style="background-color:#e9d4d4;border-color:#000000;border-radius:10px;margin:10px">
+                                <div style="padding:10px">
+                                    <a href="/Product/Details?id=@item.ProductId">
+                                        <div>
+                                            <img src="@Url.Content(item.DisplayImage)" height="150" width="200" style="border-radius:19px" />
+                                        </div>
+                                        <div><h6 class="text-dark">@item.ProductName</h6></div>
+                                        <div><p class="text-danger">₺@item.Price</p></div>
+                                    </a>
+                                </div>
+                            </div>
+                        }
+                        @if (Model.Products != null)
+                        {
+                            <div class="col-md-12">
+                                <div class="text-center" style="padding:10px">
+                                    <a href="/Home/AllProduct" class="btn btn-primary">Hepsini Görüntüle</a>
+                                </div>
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="col-md-12">
+                                <div class="text-center" style="padding:10px">
+                                    <h6 class="text-warning">Hiç bir emlak bulunamadı</h6>
+                                </div>
+                            </div>
+                        }
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col-md-6" style="background-color:#d4d4d4;border-radius:10px">
+                <div class="card-title" style="margin-top:10px">
+                    <h5>Satış Danışmanlarımız</h5>
+                    <hr />
+                </div>
+                <div style="background-color:#dafbeb;border-radius:10px; padding:15px">
+                    <div class="row"  style="margin-left:22px">
+                        @foreach (var item in Model.Sellers)
+                        {
+                            <div class="col-md-5" style="background-color:#e9d4d4;border-color:#000000;border-radius:10px;margin:10px">
+                                <div style="padding:10px">
+                                    <a href="/User/UserProfile?id=@item.UserId">
+                                        <div>
+                                            @if (item.UserImage != null)
+                                            {
+                                                <img src="@Url.Content(item.UserImage)" height="150" width="200" style="border-radius:19px" />
+                                            }
+                                            else
+                                            {
+                                                <img src="~/Human.png" height="150" width="200" style="border-radius:19px" />
+                                            }
+
+                                        </div>
+                                        <div><p class="text-danger">@item.UserTypeName</p></div>
+                                        <div><h6 class="text-dark">@item.UserName</h6></div>
+
+                                    </a>
+                                </div>
+                            </div>
+                        }
+                        @if (Model.Sellers.Count != 0)
+                        {
+                            <div class="col-md-12">
+                                <div class="text-center" style="padding:10px">
+                                    <a href="/Home/Sellers" class="btn btn-primary">Hepsini Görüntüle</a>
+                                </div>
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="col-md-12">
+                                <div class="text-center" style="padding:10px">
+                                    <h6 class="text-warning">Satış Danışmanı Bulunamadı</h6>
+                                </div>
+                            </div>
+                        }
+                        
+                    </div>
+                </div>
+
+            </div>
+       
+        </div>
+
+    </div>
+</div>

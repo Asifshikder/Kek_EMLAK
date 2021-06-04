@@ -1,0 +1,54 @@
+﻿@model KEK_Emlak.Web.Models.LoginVM
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_LayoutLoginRegister.cshtml";
+}
+<div class="row">
+    <div class="col-md-7">
+        <div style="padding:10px">
+            <div style="background-color:#f1f1f1;border-radius:15px">
+                <div style="padding:20px">
+
+                    <div class="text-center">
+                        <h4>Üye Girişi</h4>
+                    </div>
+                    <form asp-action="Login" asp-controller="Account" method="post">
+                        <div class="form-group">
+                            <label class="control-label">Email</label>
+                            <input type="email" class="form-control" asp-for="Email" id="exampleInputEmail" aria-describedby="emailHelp" placeholder="Email Adresinizi giriniz">
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label">Şifre</label>
+                            <input type="password" class="form-control" asp-for="Password" id="exampleInputPassword" placeholder="Şifrenizi giriniz">
+                        </div>
+                        <div class="form-group">
+                            <span asp-validation-for="IncorrectInput" class="text-danger"></span>
+                        </div>
+                        @Html.HiddenFor(s => s.ReturnUrl)
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary  btn-block">
+                                Giriş Yap
+                            </button>
+                        </div>
+                        <div class="form-group">
+                            <label style="margin-left:8px;"> <a href="/Account/ForgotPassword" class="text-danger">Şifremi Unuttum</a></label>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-5">
+        <div style="padding:10px">
+            <div style="background-color:#f1f1f1;border-radius:15px">
+                <div style="padding:20px">
+                   
+                    <div class="form-group">
+                        <a class="btn btn btn-outline-dark btn-block" href="/account/MemberRegister">Üye Olmak İçin Tıklayın</a>
+                        <a class="btn btn btn-outline-danger btn-block" href="/account/SellerRegister">Satış Danışmanı olmak için Tıklayın</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

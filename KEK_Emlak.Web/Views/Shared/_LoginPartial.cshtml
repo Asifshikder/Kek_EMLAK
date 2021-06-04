@@ -1,0 +1,23 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<KEK_Emlak.Data.Entities.ApplicationUser> SignInManager
+@inject UserManager<KEK_Emlak.Data.Entities.ApplicationUser> UserManager
+
+<ul class="navbar-nav">
+@if (SignInManager.IsSignedIn(User))
+{
+    <li class="nav-item">
+        <a  class="nav-link text-dark" asp-action="Profile" asp-controller="Account" title="Manage">@User.Identity.Name!</a>
+    </li>
+    <li class="nav-item">
+        <form  class="form-inline" asp-action="Logout" asp-controller="Account" method="get">
+            <button  type="submit" class="nav-link btn btn-link text-dark">Çıkış</button>
+        </form>
+    </li>
+}
+else
+{ 
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-action="Login" asp-controller="Account">Giriş</a>
+    </li>
+}
+</ul>

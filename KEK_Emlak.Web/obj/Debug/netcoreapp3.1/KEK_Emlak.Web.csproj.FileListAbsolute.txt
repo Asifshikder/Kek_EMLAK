@@ -1,0 +1,927 @@
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.exe
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.deps.json
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.runtimeconfig.json
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.runtimeconfig.dev.json
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.Views.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.Views.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.csprojAssemblyReference.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.AssemblyInfoInputs.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.AssemblyInfo.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.csproj.CoreCompileInputs.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorAssemblyInfo.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorAssemblyInfo.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\staticwebassets\KEK_Emlak.Web.StaticWebAssets.Manifest.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\staticwebassets\KEK_Emlak.Web.StaticWebAssets.xml
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\KEK_Emlak.Web.styles.css
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.TagHelpers.input.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.TagHelpers.output.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorCoreGenerate.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.Views.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.genruntimeconfig.cache
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.csproj.CopyComplete
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Navigate.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginRegister.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\MemberRegister.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\FullFillment\Index.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\SellerRegister.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Asif Shikder\source\repos\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Delete.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.exe
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.deps.json
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.runtimeconfig.json
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.runtimeconfig.dev.json
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.Views.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.Views.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.csprojAssemblyReference.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.AssemblyInfoInputs.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.AssemblyInfo.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.csproj.CoreCompileInputs.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorAssemblyInfo.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorAssemblyInfo.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\staticwebassets\KEK_Emlak.Web.StaticWebAssets.Manifest.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\staticwebassets\KEK_Emlak.Web.StaticWebAssets.xml
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\KEK_Emlak.Web.styles.css
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.TagHelpers.input.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.TagHelpers.output.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorCoreGenerate.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\MemberRegister.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\SellerRegister.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Delete.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\FullFillment\Index.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Navigate.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginRegister.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.Views.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.csproj.CopyComplete
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.dll
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.pdb
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.genruntimeconfig.cache
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\UserProduct.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Asif Shikder\Dropbox\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.exe
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.deps.json
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.runtimeconfig.json
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.runtimeconfig.dev.json
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.Views.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.Views.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.csprojAssemblyReference.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.AssemblyInfoInputs.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.AssemblyInfo.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.csproj.CoreCompileInputs.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorAssemblyInfo.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorAssemblyInfo.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\staticwebassets\KEK_Emlak.Web.StaticWebAssets.Manifest.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\staticwebassets\KEK_Emlak.Web.StaticWebAssets.xml
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\KEK_Emlak.Web.styles.css
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.TagHelpers.input.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.TagHelpers.output.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorCoreGenerate.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\MemberRegister.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\SellerRegister.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Delete.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\FullFillment\Index.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\UserProduct.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Navigate.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginRegister.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.Views.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.csproj.CopyComplete
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.dll
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.pdb
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.genruntimeconfig.cache
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangePassword.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordMail.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Members.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\UserProfile.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sellers.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\AllProduct.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Buy\UserItem.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Sells.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Buy\AllBuys.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\Fiverr\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\AllSells.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.exe
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.deps.json
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.runtimeconfig.json
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.runtimeconfig.dev.json
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.Views.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.Views.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.csprojAssemblyReference.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.AssemblyInfoInputs.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.AssemblyInfo.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.csproj.CoreCompileInputs.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorAssemblyInfo.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorAssemblyInfo.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\staticwebassets\KEK_Emlak.Web.StaticWebAssets.Manifest.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\staticwebassets\KEK_Emlak.Web.StaticWebAssets.xml
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\KEK_Emlak.Web.styles.css
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.TagHelpers.input.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.TagHelpers.output.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorCoreGenerate.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangePassword.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\MemberRegister.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordMail.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\SellerRegister.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Buy\AllBuys.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Delete.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\FullFillment\Index.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\AllProduct.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Members.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sellers.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\AllSells.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Sells.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\UserProduct.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Navigate.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginRegister.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\UserProfile.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.Views.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.csproj.CopyComplete
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.dll
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.pdb
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.genruntimeconfig.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Buy\Emlak.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.exe
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.deps.json
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.runtimeconfig.json
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.runtimeconfig.dev.json
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.Views.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Web.Views.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Data.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Repo.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\bin\Debug\netcoreapp3.1\KEK_Emlak.Service.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.csprojAssemblyReference.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.AssemblyInfoInputs.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.AssemblyInfo.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.csproj.CoreCompileInputs.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorAssemblyInfo.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorAssemblyInfo.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\staticwebassets\KEK_Emlak.Web.StaticWebAssets.Manifest.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\staticwebassets\KEK_Emlak.Web.StaticWebAssets.xml
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\KEK_Emlak.Web.styles.css
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.TagHelpers.input.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.TagHelpers.output.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorCoreGenerate.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangePassword.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\MemberRegister.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordMail.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\SellerRegister.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Buy\AllBuys.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Buy\Emlak.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Delete.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\FullFillment\Index.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\AllProduct.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Members.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sellers.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\AllSells.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Sells.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\UserProduct.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Navigate.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginRegister.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\UserProfile.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.Views.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.csproj.CopyComplete
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.dll
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.pdb
+C:\Users\Asif Shikder\Desktop\KEK_Emlak_2\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\KEK_Emlak.Web.genruntimeconfig.cache
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\AllSeller.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\AllMember.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\AllUser.cshtml.g.cs
+C:\Users\Kubilay\Desktop\KEK_Emlak\KEK_Emlak\KEK_Emlak.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Delete.cshtml.g.cs

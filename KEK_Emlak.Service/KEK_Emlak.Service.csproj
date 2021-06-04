@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KEK_Emlak.Data\KEK_Emlak.Data.csproj" />
+    <ProjectReference Include="..\KEK_Emlak.Repo\KEK_Emlak.Repo.csproj" />
+  </ItemGroup>
+
+</Project>

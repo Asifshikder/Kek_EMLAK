@@ -1,0 +1,5 @@
+at first set KEKEMLAK.Repo as startup project then use package manager console to do migration.
+use update-database commandd.
+then run the application.
+https://localhost:44337/FullFillment/index
+use admin@mail.com           admin1234

@@ -1,0 +1,196 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<KEK_Emlak.Data.Entities.ApplicationUser> SignInManager
+@inject UserManager<KEK_Emlak.Data.Entities.ApplicationUser> UserManager
+@{
+    var user = UserManager.GetUserAsync(User).Result;
+
+}
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Dashboard">
+    <meta name="keyword" content="Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
+    <title>KEK EMLAK</title>
+    @*<link href="~/AdminContent/img/favicon.png" rel="icon">
+        <link href="~/AdminContent/img/apple-touch-icon.png" rel="apple-touch-icon"> *@
+
+    <link href="~/AdminContent/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/AdminContent/lib/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link href="~/AdminContent/css/style.css" rel="stylesheet">
+    <link href="~/AdminContent/css/style-responsive.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="~/AdminContent/css/zabuto_calendar.css">
+    <link rel="stylesheet" type="text/css" href="~/AdminContent/lib/gritter/css/jquery.gritter.css" />
+    <script src="~/AdminContent/lib/chart-master/Chart.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <section id="container">
+        <header class="header black-bg">
+            <div class="sidebar-toggle-box">
+                <div class="fa fa-bars tooltips" data-placement="right" data-original-title="Toggle Navigation"></div>
+            </div>
+
+            <a href="/Home/Index" class="logo"><b>KEK<span>EMLAK</span></b></a>
+
+            <div class="nav notify-row" id="top_menu">
+
+            </div>
+            <div class="top-menu">
+                <ul class="nav pull-right top-menu">
+                    <li><a class="logout" href="/Account/logout">Çıkış</a></li>
+                </ul>
+            </div>
+        </header>
+
+        <aside>
+            <div id="sidebar" class="nav-collapse ">
+                <ul class="sidebar-menu" id="nav-accordion">
+                    <p class="centered"><a href="/Account/Profile"><img src="~/user.png" class="img-circle" width="80" /></a></p>
+                    <h5 class="centered">@user.FullName</h5>
+
+                    <li class="mt">
+                        <a href="/Dashboard/Index">
+                            <i class="fa fa-dashboard"></i>
+                            <span>Ana Sayfa</span>
+                        </a>
+                    </li>
+                    @if (await UserManager.IsInRoleAsync(user, "Admin"))
+                    {
+                        <li class="sub-menu">
+                            <a href="javascript:;">
+                                <i class="fa fa-users"></i>
+                                <span>Kullanıcılar</span>
+                            </a>
+                            <ul class="sub">
+                                <li><a href="/User/AllUser">Tüm Kullanıcılar</a></li>
+                                <li><a href="/User/AllMember">Üyeler</a></li>
+                                <li><a href="/User/AllSeller">Emlak Danışmanları</a></li>
+                            </ul>
+                        </li>
+                    }
+
+                    @if (await UserManager.IsInRoleAsync(user, "Admin"))
+                    {
+                        <li class="sub-menu">
+                            <a href="javascript:;">
+                                <i class="fa fa-desktop"></i>
+                                <span>Kategori</span>
+                            </a>
+                            <ul class="sub">
+                                <li><a href="/Category/index">Tüm Kategoriler</a></li>
+                                <li><a href="/Category/Create">Yeni Ekle</a></li>
+                            </ul>
+                        </li>
+                    }
+                    @if (await UserManager.IsInRoleAsync(user, "Admin"))
+                    {
+                        <li class="sub-menu">
+                            <a href="javascript:;">
+                                <i class="fa fa-cogs"></i>
+                                <span>Emlaklar</span>
+                            </a>
+                            <ul class="sub">
+
+                                <li><a href="/Product/index">Tüm Emlaklar</a></li>
+                                <li><a href="/Product/Create">Emlak Ekle</a></li>
+
+
+
+                            </ul>
+                        </li>
+                    }@if (await UserManager.IsInRoleAsync(user, "Seller"))
+                    {
+                        <li class="sub-menu">
+                            <a href="javascript:;">
+                                <i class="fa fa-cogs"></i>
+                                <span>Emlaklar</span>
+                            </a>
+                            <ul class="sub">
+
+
+                                <li><a href="/Product/UserProduct">Ürünlerim</a></li>
+                                <li><a href="/Product/Create">Ürün Ekle</a></li>
+
+
+
+                            </ul>
+                        </li>
+                    }
+                    @if (await UserManager.IsInRoleAsync(user, "Admin"))
+                    {
+                        <li class="sub-menu">
+                            <a href="/buy/AllBuys">
+                                <i class="fa fa-book"></i>
+                                <span>Satın Alma Geçmişim</span>
+                            </a>
+                        </li>
+
+                    }
+                    else
+                    {
+                        <li class="sub-menu">
+                            <a href="/buy/Emlak">
+                                <i class="fa fa-book"></i>
+                                <span>Tüm Satın Alımlarım</span>
+                            </a>
+                        </li>
+                    }
+                    @if (await UserManager.IsInRoleAsync(user, "Admin"))
+                    {
+                        <li class="sub-menu">
+                            <a href="/Product/AllSells">
+                                <i class="fa fa-book"></i>
+                                <span>Tüm Satışlarım</span>
+                            </a>
+                        </li>
+
+                    }
+                    else
+                    {
+                        <li class="sub-menu">
+                            <a href="/Product/Sells">
+                                <i class="fa fa-book"></i>
+                                <span>Tüm Satışlarım</span>
+                            </a>
+                        </li>
+                    }
+
+                </ul>
+                <!-- sidebar menu end-->
+            </div>
+        </aside>
+
+        <section id="main-content">
+            @RenderBody()
+
+        </section>
+        <footer class="site-footer" style="margin-top:200px">
+            <div class="text-center">
+                <p>
+                    &copy; Copyrights <strong>Kek Emlak</strong>. All Rights Reserved
+                </p>
+                <div class="credits">
+
+                </div>
+                <a href="blank.html#" class="go-top">
+                    <i class="fa fa-angle-up"></i>
+                </a>
+            </div>
+        </footer>
+    </section>
+    <script src="~/AdminContent/lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/AdminContent/lib/jquery-ui-1.9.2.custom.min.js"></script>
+    <script src="~/AdminContent/lib/jquery.ui.touch-punch.min.js"></script>
+    <script class="include" type="text/javascript" src="~/AdminContent/lib/jquery.dcjqaccordion.2.7.js"></script>
+    <script src="~/AdminContent/lib/jquery.scrollTo.min.js"></script>
+    <script src="~/AdminContent/lib/jquery.nicescroll.js" type="text/javascript"></script>
+    <script src="~/AdminContent/lib/common-scripts.js"></script>
+
+
+</body>
+
+</html>

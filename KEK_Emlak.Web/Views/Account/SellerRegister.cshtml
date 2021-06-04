@@ -1,0 +1,63 @@
+﻿@model KEK_Emlak.Web.Models.RegisterVM
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_LayoutLoginRegister.cshtml";
+}
+<div class="row">
+    <div class="col-md-8">
+        <div style="padding:10px">
+            <div style="background-color:#f1f1f1;border-radius:15px">
+                <div style="padding:20px">
+                    <div class="text-center">
+                        <h4>Satış Danışmanı Kayıt</h4>
+                    </div>
+                    <form asp-action="SellerRegister" asp-controller="Account" method="post">
+                        <div class="form-group">
+                            <label class="control-label">İsim Soyisim</label>
+                            <input type="text" class="form-control" asp-for="FullName">
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label">Email</label>
+                            <input type="text" class="form-control" asp-for="Email">
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label">Şifre</label>
+                            <input type="password" class="form-control" asp-for="Password">
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label">Adres</label>
+                            <input type="text" class="form-control" asp-for="Address">
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label">Telefon</label>
+                            <input type="text" class="form-control" asp-for="Phone">
+                        </div>
+                        @Html.HiddenFor(s => s.ReturnUrl)
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary  btn-block">
+                                Kaydet
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div style="padding:10px">
+            <div style="background-color:#f1f1f1;border-radius:15px">
+                <div style="padding:20px">
+                    <div class="form-group">
+                        <label class="control-label">Zaten üye misiniz?</label>
+                        <a class="btn btn btn-outline-primary btn-block" href="/account/login">Giriş yapmak için tıklayın</a>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Ya da</label>
+                        <a class="btn btn btn-outline-dark btn-block" href="/account/Memberregister">Üye olmak için tıklayın</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
